@@ -3,4 +3,10 @@ go 1.20
 use (
 	./01hello
 	./02variable
+	./03userinput
+	./04conversion
+	./05mymath
+	./06mytime
+	./07mypointer
+	./08myarray
 )
